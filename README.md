@@ -12,7 +12,7 @@ You can buy the book [here](https://www.amazon.com/Compilers-Principles-Techniqu
 
 The notes are structured chapter by chapter, summarizing key concepts, algorithms, and code implementations. Each chapter has a dedicated directory with:
 - **`readme.md`**: Summary of concepts.
-- **`examples/`**: Code snippets or algorithms from the chapter.
+- **`examples/`**: Code snippets or algorithms from the chapter or from internet.
 - **`exercises/`**: Solutions or practice implementations.
 - **`assets/`**: Screenshots or diagrams related to the chapter.
 
